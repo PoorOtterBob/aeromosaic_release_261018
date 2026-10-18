@@ -1,0 +1,22 @@
+# Copy to paths.yaml and replace every placeholder with a local path.
+# paths.yaml is ignored by Git/package manifests; do not commit machine-specific paths.
+python_bin: /absolute/path/to/python
+project_root: /absolute/path/to/AeroMosaic
+model_dir: /absolute/path/to/ChatTS-8B-1103
+output_root: /absolute/path/to/aeromosaic-results
+gpu: "0"
+protocol: main_table_abl_AC
+seeds:
+  - 42
+  - 123
+  - 456
+# These paths must point to the frozen experiment-time precipitation bundles
+# used by the April 16 abl_AC runs. Do not replace them with bundles generated
+# by scripts/prepare_camera_ready_data.py when reproducing the published table.
+regions:
+  BTH: /absolute/path/to/bth_dag_group_bundle_precip
+  YRD: /absolute/path/to/yrd_dag_group_bundle_precip
+  SDP: /absolute/path/to/sdp_dag_group_bundle_precip_short
+  ZHD: /absolute/path/to/zhd_dag_group_bundle_precip
+  CJD: /absolute/path/to/cjd_dag_group_bundle_precip
+  CYB: /absolute/path/to/cyb_dag_group_bundle_precip_short

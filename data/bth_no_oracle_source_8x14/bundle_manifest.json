@@ -1,0 +1,23 @@
+{
+  "asset": "AeroMosaic historical BTH numerical-precipitation source bundle",
+  "purpose": "input for the matched no-oracle parent-information diagnostics",
+  "raw_ts_shape": [
+    13,
+    8,
+    14
+  ],
+  "splits": {
+    "train": 730,
+    "val": 365,
+    "test": 365
+  },
+  "source_bundle": "preserved BTH numerical-precipitation experiment asset",
+  "source_index_sha256": {
+    "train": "37ada1a3283b05e9cb1ea864f07fe5b354c14ba4ca1365ac8ba6e25288a1dbc6",
+    "val": "f9ad388155d47e0b989c794302de3d0b891d1ce682a40ceb9cee559b38262bee",
+    "test": "7c062d19044db33322c616e156a88d3eb7310770048f7a58b2f06c670322bf0d"
+  },
+  "portability": "all indexed files are contained under this bundle; index paths are release-root-relative",
+  "parent_count": "derived as the number of positive entries per stored adjacency row",
+  "provenance_boundary": "This vendors the preserved experiment-time prepared input. It does not recreate the 14-channel tensor from public raw KnowAir data."
+}

@@ -1,0 +1,7 @@
+# Local-only paths and experiment products
+configs/paths.yaml
+results/
+outputs/
+runs/
+__pycache__/
+*.py[cod]

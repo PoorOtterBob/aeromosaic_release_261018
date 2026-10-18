@@ -1,0 +1,275 @@
+{
+  "regions": {
+    "BTH": {
+      "seeds": [
+        {
+          "seed": 42,
+          "accuracy": 0.831822971548999,
+          "micro_f1": 0.8318229715489989,
+          "macro_f1": 0.7066000862934031
+        },
+        {
+          "seed": 123,
+          "accuracy": 0.8465753424657534,
+          "micro_f1": 0.8465753424657534,
+          "macro_f1": 0.7650839197993134
+        },
+        {
+          "seed": 456,
+          "accuracy": 0.8377239199157007,
+          "micro_f1": 0.8377239199157007,
+          "macro_f1": 0.7000403725618097
+        }
+      ],
+      "accuracy": {
+        "mean": 0.838707411310151,
+        "population_sd": 0.006062648123748878
+      },
+      "micro_f1": {
+        "mean": 0.838707411310151,
+        "population_sd": 0.00606264812374892
+      },
+      "macro_f1": {
+        "mean": 0.7239081262181755,
+        "population_sd": 0.02923858117667453
+      }
+    },
+    "YRD": {
+      "seeds": [
+        {
+          "seed": 42,
+          "accuracy": 0.7720890410958904,
+          "micro_f1": 0.7720890410958904,
+          "macro_f1": 0.599977942080957
+        },
+        {
+          "seed": 123,
+          "accuracy": 0.7648972602739726,
+          "micro_f1": 0.7648972602739726,
+          "macro_f1": 0.5928283863201226
+        },
+        {
+          "seed": 456,
+          "accuracy": 0.7643835616438356,
+          "micro_f1": 0.7643835616438355,
+          "macro_f1": 0.5998561453730701
+        }
+      ],
+      "accuracy": {
+        "mean": 0.7671232876712328,
+        "population_sd": 0.0035175751000298037
+      },
+      "micro_f1": {
+        "mean": 0.7671232876712328,
+        "population_sd": 0.0035175751000298327
+      },
+      "macro_f1": {
+        "mean": 0.5975541579247166,
+        "population_sd": 0.0033419950681793913
+      }
+    },
+    "SDP": {
+      "seeds": [
+        {
+          "seed": 42,
+          "accuracy": 0.8146118721461187,
+          "micro_f1": 0.8146118721461187,
+          "macro_f1": 0.6124590360541633
+        },
+        {
+          "seed": 123,
+          "accuracy": 0.8200913242009132,
+          "micro_f1": 0.8200913242009132,
+          "macro_f1": 0.6327325554504507
+        },
+        {
+          "seed": 456,
+          "accuracy": 0.8151598173515981,
+          "micro_f1": 0.8151598173515981,
+          "macro_f1": 0.620142709850983
+        }
+      ],
+      "accuracy": {
+        "mean": 0.81662100456621,
+        "population_sd": 0.0024640616553848462
+      },
+      "micro_f1": {
+        "mean": 0.81662100456621,
+        "population_sd": 0.0024640616553848462
+      },
+      "macro_f1": {
+        "mean": 0.6217781004518657,
+        "population_sd": 0.008357023951583165
+      }
+    },
+    "ZHD": {
+      "seeds": [
+        {
+          "seed": 42,
+          "accuracy": 0.7861402095084609,
+          "micro_f1": 0.7861402095084609,
+          "macro_f1": 0.6338628987624694
+        },
+        {
+          "seed": 123,
+          "accuracy": 0.7940370668815472,
+          "micro_f1": 0.7940370668815471,
+          "macro_f1": 0.6682697593016754
+        },
+        {
+          "seed": 456,
+          "accuracy": 0.7782433521353747,
+          "micro_f1": 0.7782433521353745,
+          "macro_f1": 0.6376258741472113
+        }
+      ],
+      "accuracy": {
+        "mean": 0.7861402095084609,
+        "population_sd": 0.006447757045198839
+      },
+      "micro_f1": {
+        "mean": 0.7861402095084609,
+        "population_sd": 0.006447757045198839
+      },
+      "macro_f1": {
+        "mean": 0.6465861774037853,
+        "population_sd": 0.01540937569313831
+      }
+    },
+    "CJD": {
+      "seeds": [
+        {
+          "seed": 42,
+          "accuracy": 0.8718851924331377,
+          "micro_f1": 0.8718851924331377,
+          "macro_f1": 0.5722436193107895
+        },
+        {
+          "seed": 123,
+          "accuracy": 0.8704500978473582,
+          "micro_f1": 0.8704500978473582,
+          "macro_f1": 0.5741944675999313
+        },
+        {
+          "seed": 456,
+          "accuracy": 0.8600130463144162,
+          "micro_f1": 0.8600130463144162,
+          "macro_f1": 0.5031230457772601
+        }
+      ],
+      "accuracy": {
+        "mean": 0.8674494455316374,
+        "population_sd": 0.005290866287351483
+      },
+      "micro_f1": {
+        "mean": 0.8674494455316374,
+        "population_sd": 0.005290866287351483
+      },
+      "macro_f1": {
+        "mean": 0.5498537108959937,
+        "population_sd": 0.03305316675792933
+      }
+    },
+    "CYB": {
+      "seeds": [
+        {
+          "seed": 42,
+          "accuracy": 0.8427074939564867,
+          "micro_f1": 0.8427074939564867,
+          "macro_f1": 0.6666190327359856
+        },
+        {
+          "seed": 123,
+          "accuracy": 0.8601128122481869,
+          "micro_f1": 0.8601128122481869,
+          "macro_f1": 0.6867259471916982
+        },
+        {
+          "seed": 456,
+          "accuracy": 0.8625302175664786,
+          "micro_f1": 0.8625302175664786,
+          "macro_f1": 0.6872955085182596
+        }
+      ],
+      "accuracy": {
+        "mean": 0.8551168412570508,
+        "population_sd": 0.008830058038228986
+      },
+      "micro_f1": {
+        "mean": 0.8551168412570508,
+        "population_sd": 0.008830058038228986
+      },
+      "macro_f1": {
+        "mean": 0.6802134961486478,
+        "population_sd": 0.00961554909629321
+      }
+    }
+  },
+  "regions_order": [
+    "BTH",
+    "YRD",
+    "SDP",
+    "ZHD",
+    "CJD",
+    "CYB"
+  ],
+  "seeds": [
+    42,
+    123,
+    456
+  ],
+  "std_definition": "population standard deviation across the three archived seeds (ddof=0)",
+  "source": "abl_AC/<REGION>_seed<SEED>_eval_test/test/summary.json (release output) or sibling summary_all.json (archived output)",
+  "paper_mean_check": {
+    "BTH": {
+      "micro_f1": true,
+      "macro_f1": true
+    },
+    "YRD": {
+      "micro_f1": true,
+      "macro_f1": true
+    },
+    "SDP": {
+      "micro_f1": true,
+      "macro_f1": true
+    },
+    "ZHD": {
+      "micro_f1": true,
+      "macro_f1": true
+    },
+    "CJD": {
+      "micro_f1": true,
+      "macro_f1": true
+    },
+    "CYB": {
+      "micro_f1": true,
+      "macro_f1": true
+    }
+  },
+  "paper_population_sd_check": {
+    "BTH": {
+      "micro_f1": true,
+      "macro_f1": true
+    },
+    "YRD": {
+      "micro_f1": true,
+      "macro_f1": true
+    },
+    "SDP": {
+      "micro_f1": true,
+      "macro_f1": true
+    },
+    "ZHD": {
+      "micro_f1": true,
+      "macro_f1": true
+    },
+    "CJD": {
+      "micro_f1": true,
+      "macro_f1": true
+    },
+    "CYB": {
+      "micro_f1": true,
+      "macro_f1": true
+    }
+  }
+}
