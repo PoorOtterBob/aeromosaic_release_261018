@@ -61,7 +61,7 @@ def main() -> int:
         actual = {
             path.relative_to(root).as_posix()
             for path in root.rglob("*")
-            if path.is_file() and path != manifest
+            if path.is_file() and path != manifest and ".git" not in path.relative_to(root).parts
         }
         for rel in sorted(actual - manifested):
             errors.append(f"file missing from manifest: {rel}")

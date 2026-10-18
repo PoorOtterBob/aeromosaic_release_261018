@@ -1740,6 +1740,7 @@
 1ebdffec654cfab262f2e6405a8e087436dea1501b2c05bf4ee08013a1c6de62  ./data/bth_no_oracle_source_8x14/assets/val/2017-12-03/labels.npy
 1ec1d6970698a2d35b3ded77b805625db111585008bf2539d85bf02f9ab179ac  ./data/bth_no_oracle_source_8x14/assets/train/2016-01-07/dag_adj.npy
 1ed560ce296cea831f005a427bdfc1cd62634004ac256ebb23da7213b42c1338  ./data/bth_no_oracle_source_8x14/assets/train/2015-01-10/dag_adj.npy
+1ee5b08344a379dcd91aa612e6faa54760e64b18e5cf6c6bf26ef2a52ca782f0  ./scripts/smoke_test_data_free.py
 1ee852ae632345e388a05439813a9a36279c90273425e89e13b8cc4fda1df666  ./data/bth_no_oracle_source_8x14/assets/train/2016-11-13/dag_adj.npy
 1ee9af6ff3d8c1730ed754c6aa346ffe4831206d02097388f26e38066cf2f878  ./data/bth_no_oracle_source_8x14/assets/test/2018-08-22/dag_adj.npy
 1eea156112a41c2245a3adde490eb8733fd1fdd3dc810c3b32aedef7d60fee83  ./data/bth_no_oracle_source_8x14/assets/train/2015-12-16/dag_level.npy
@@ -2840,7 +2841,6 @@
 3b81cc9722615f9c0cbfec9541c7a8e62b6eb05329159f31aaac630fb3ee3b63  ./data/bth_no_oracle_source_8x14/assets/train/2015-10-31/parent_count.npy
 3b83a95f34e050396ce22bdbce975d02f9b1bb357c5e24f490f8498bf29b5861  ./data/bth_no_oracle_source_8x14/assets/test/2018-11-30/parent_count.npy
 3b84840b4d55959fa0befbf9433f0ef02329ce15c9505b97f6ce057b3f488d8c  ./data/bth_no_oracle_source_8x14/assets/train/2015-12-07/raw_ts.npy
-3b95c62bb4ad1326a8e52921af294ba35f2bbad21bfee23c21fe5f8b520780bf  ./scripts/smoke_test_data_free.py
 3b95ee68ea9f822de6eb7edae11d40918667b8245c515a3d1c7c165a43add7ac  ./data/bth_no_oracle_source_8x14/assets/train/2015-05-16/prompts.json
 3ba86d423ab69a104f9d14c179ce9b99024956b80245b1ad1dc6057a393adc64  ./data/bth_no_oracle_source_8x14/assets/train/2015-07-08/prompts.json
 3baa035a53d5243c3ccab9d4f0e17d109d919096d7b6a960dc9e543b49e535f3  ./data/bth_no_oracle_source_8x14/assets/test/2018-02-18/parent_count.npy
