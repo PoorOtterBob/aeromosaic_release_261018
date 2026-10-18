@@ -1,6 +1,6 @@
 # AeroMosaic camera-ready release checklist
 
-Current authoritative status: 2026-10-17. This checklist replaces earlier staged-candidate notes. It records what the package establishes and what remains external; it is not evidence that experiments were freshly rerun.
+Current authoritative status: 2026-10-18. The public release is https://github.com/miya1102/aeromosaic_release_261018. This checklist replaces earlier staged-candidate notes. It records what the package establishes and what remains external; it is not evidence that experiments were freshly rerun.
 
 ## Paper and implementation alignment
 
@@ -45,6 +45,7 @@ Current authoritative status: 2026-10-17. This checklist replaces earlier staged
 - [x] The 18 historical summaries are described as packaging-time evidence; their aggregate statistics are preserved, but the individual files are not claimed to be distributed.
 - [x] The no-oracle commands consistently use the release ablation trainer/evaluator and predicted-rollout entrypoint.
 - [x] The separate `8x14` BTH no-oracle source bundle is distributed, self-contained, and validated across all 1,460 daily groups.
+- [x] The de-anonymized public GitHub repository URL is documented in the paper and README.
 
 ## Environment and execution status
 

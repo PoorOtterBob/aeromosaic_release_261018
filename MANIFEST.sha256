@@ -990,7 +990,6 @@
 0b8f9381b2e2e57916c69585f0f40b2af9d78ff356eaf147b568ca6817594aea  ./data/bth_no_oracle_source_8x14/assets/train/2015-03-25/labels.npy
 0b912d83c969029a62c96a5ba9b366a3ee6c9733152ddb0e558b99ed8191bb32  ./data/bth_no_oracle_source_8x14/assets/test/2018-02-27/is_root.npy
 0ba845e1a647f5c51db06acc9d78c72c03b5a899e428c27c6eeb71f9e9659612  ./data/bth_no_oracle_source_8x14/assets/val/2017-03-14/prompts.json
-0baa2babc1c3146e26acea41cc4dab26cd2f07eabe6fc5e4d82fd301b9ca9d21  ./README.md
 0baddca4f931f75f863e7ea390fae2d1f36f88c230b884dd6a917868b3814e03  ./data/bth_no_oracle_source_8x14/assets/train/2015-08-21/dag_level.npy
 0bb42a4cdc25ef47f05297f40b52eb3f736c138627f03d79e3f94360a4b08a03  ./data/bth_no_oracle_source_8x14/assets/train/2015-09-01/prompts.json
 0bb800887b5a81ac11059fa70f337eff00458b040abce93cc05b8bf41bec0796  ./data/bth_no_oracle_source_8x14/assets/train/2015-12-14/dag_level.npy
@@ -1362,7 +1361,6 @@
 172bdfcf1f92b81e41c6c840d3202b8889346b671151fb78d016e04c240e2530  ./data/bth_no_oracle_source_8x14/assets/train/2016-03-14/dag_adj.npy
 173f0c13216d22fe8c8d54ac3b329bb60b0d566b0c79d98190644a7f2c8a7157  ./data/bth_no_oracle_source_8x14/assets/test/2018-08-30/dag_level.npy
 17417c5ddbc115fb958654e1e9377a4cdfc807662cee733ee488ff5617e02225  ./data/bth_no_oracle_source_8x14/assets/test/2018-02-09/parent_count.npy
-1743ae5ac732eccb0c345c99d9baf920ccc5d6e76a9e6adfa8c4088ebdb44ee6  ./RELEASE_CHECKLIST.md
 17476e87f77fc4ae9f5309153a29dc8deb9061392f50909839c8f76f6c17d71d  ./data/bth_no_oracle_source_8x14/assets/train/2016-02-28/labels.npy
 174e8e91e26d7520ce9f92565870950426b24772b9c02fa4ec6ff2e34839d424  ./data/bth_no_oracle_source_8x14/assets/test/2018-03-10/dag_adj.npy
 174f9cf61e1800cb313692d9f6398d76603984b96a2bbd852ef964af4ca720f9  ./data/bth_no_oracle_source_8x14/assets/val/2017-08-09/raw_ts.npy
@@ -4959,6 +4957,7 @@
 50933b7dda1c0a72fd423516e3267a477372f28eb5dba40a7ae1598b9b2a0a10  ./data/bth_no_oracle_source_8x14/assets/train/2016-10-02/raw_ts.npy
 509c0cafaa94b33c40a836dcdd74b31abcb081be0895de4fb4cfdf3cc5c2f822  ./data/bth_no_oracle_source_8x14/assets/test/2018-10-14/dag_adj.npy
 50ab1e870fbb7b864fe57ec9e7d29cbb1a4c02c09976f232c73fc732351735d8  ./data/bth_no_oracle_source_8x14/assets/train/2016-04-08/parent_count.npy
+50b96ceb2636cf9c434d90706beeece2f5f65f69ca1e7fc810783d6cd3ec7dab  ./RELEASE_CHECKLIST.md
 50c3059ab35db21fd79626285537c02675e178af86d3a2739e64a803b672144c  ./data/bth_no_oracle_source_8x14/assets/val/2017-10-01/dag_level.npy
 50c887339d82b3806869a4c293080d7d2d48444f5df04c4a8913ca56ad62dc94  ./data/bth_no_oracle_source_8x14/assets/train/2016-01-16/raw_ts.npy
 50d7f17ab571ebb36a7bd780a1a3c84fb464c31d6ab3d397aa7ae4b0d8ba1ff4  ./data/bth_no_oracle_source_8x14/assets/val/2017-04-19/prompts.json
@@ -5750,6 +5749,7 @@
 662385f088eee822784d6c06bd9ae4508e9647288e6da2b8c34748cfdcbdb397  ./data/bth_no_oracle_source_8x14/assets/val/2017-05-28/prompts.json
 66424ef15878748d7a96d93bdc5afd197f86ad729c973204187c663ae19988ff  ./data/bth_no_oracle_source_8x14/assets/train/2016-07-07/dag_adj.npy
 66447f8b2c78251603385d1226022d19e257dd1c72f382349df6d3dcfe7e0e9b  ./data/bth_no_oracle_source_8x14/assets/train/2016-11-06/dag_adj.npy
+664c94c9f12010fe5190a65ae558379f77e6f65d2d47fd37d875168854a5fc12  ./README.md
 664e60a21a80c77653564c6aa8014441f60cd2045cea18e24057a564dec052ac  ./data/bth_no_oracle_source_8x14/assets/test/2018-09-02/parent_count.npy
 664e60a21a80c77653564c6aa8014441f60cd2045cea18e24057a564dec052ac  ./data/bth_no_oracle_source_8x14/assets/test/2018-12-18/parent_count.npy
 664e60a21a80c77653564c6aa8014441f60cd2045cea18e24057a564dec052ac  ./data/bth_no_oracle_source_8x14/assets/train/2015-12-14/parent_count.npy
